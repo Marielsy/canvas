@@ -5,6 +5,7 @@ var l = 0 ;
 var yi , xf;
 var colorcito = "blue";
 
+//otro comentario victor
  for (l=0; l < lineas ; l++)
  {
    yi = 10 * l;
