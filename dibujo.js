@@ -27,3 +27,6 @@ function dibujarLinea(color, xinicial, yinicial, xfinal, yfinal)
   lienzo.stroke();
   lienzo.closePath();
 }
+
+//Comentario de Victor. 
+//Esto es una prueba
